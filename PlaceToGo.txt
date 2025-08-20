@@ -12,3 +12,5 @@ GuangDong
 Zhejiang
 - Taizhou
 - Hangzhou
+QingHai
+- Xining
